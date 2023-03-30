@@ -15,10 +15,6 @@ PHP y XAMPP para base de datos y código del mismo
 ## Autor :boy:
 Daniel Calatrava González. Estudiante de 2ºDAW en I.E.S. AlAndalus
 
-## Licencia :lock:
-La licencia utilizada en este proyecto es GNU General Public License v3.0
-Si quiere ver más información sobre la licencia pinche [aquí](https://github.com/dancg/MaquetacionFLEX/blob/main/LICENSE)
-
 ## Recursos adicionales :bulb:
 * Para ver otros proyectos realizados por mi pinche [aquí](https://github.com/dancg) para ver mi página de GitHub.
 
