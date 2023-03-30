@@ -3,7 +3,7 @@
 ## Descripción del proyecto :page_facing_up:
 Este proyecto es un proyecto de una base de datos que contiene usuarios los cuales tienen perfil Administrador o Usuario.
 ## Contenido :file_folder:
-Este proyecto contiene un directorio llamado public donde contiene los ficheros php que serían las páginas por las que accederían los usuarios, un directorio donde se guarda la tabla utilizada de base de datos llamada sql, un directorio src donde contiene las clases Conexión y Usuario y tiene el env.example para poner la información necesaria para hacerlo funcional. Además contiene este mismo fichero README.md y la licencia utilizada.
+Este proyecto contiene un directorio llamado public donde contiene los ficheros php que serían las páginas por las que accederían los usuarios, un directorio donde se guarda la tabla utilizada de base de datos llamada sql, un directorio src donde contiene las clases Conexión y Usuario y tiene el env.example para poner la información necesaria para hacerlo funcional. Además contiene este mismo fichero README.md
 
 ## Desarrollo del proyecto :computer:
 El proyecto se ha realizado con Visual Studio Code
